@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.contenedor {
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    width: 200px;
+    height: 200px;
+}
+#rosa {
+    background-color: #9814b9;
+}
+#azul {
+    background-color: #e91eb8;
+}
+#verde {
+    background-color: #8a0b80;
+}
+#ro {
+    background-color: #9814b9;
+}
+#az {
+    background-color: #e91eb8;
+    position: relative;
+    left: 200px;
+}
+#ve {
+    background-color: #8a0b80;
+}
+#r {
+    background-color: #9814b9;
+}
+#a {
+    background-color: #e91eb8;
+    position: relative;
+    left: 200px;
+}
+#v {
+    background-color: #8a0b80;
+}
+.contenido {
+    margin: 0;
+    padding: 0;
+}
+.caj{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+#o {
+    background-color: #9814b9;
+    left: 0;
+    top: 1900px;
+}
+#z {
+    background-color: #e91eb8;
+    right: 0;
+    top: 1900px;
+}
+#e {
+    background-color: #8a0b80;
+    left: 0;
+}
+#amarillo {
+    background-color: #aa0c78;
+    right: 0; 
+}
+
+.cajita{
+    width: 200px;
+    height: 200px;
+}
+#or {
+    background-color: #9814b9;
+}
+#ze {
+    background-color: #e91eb8;
+    position: absolute;
+    left: 200px;
+    top: 2698px;
+}
+#em {
+    background-color: #8a0b80;
+}
+#ama {
+    background-color: #aa0c78;
+}
+
+
+
+.contenedor {
+    margin: 0;
+    padding: 0;
+}
+#mor {
+    background-color: #9814b9;
+}
+#rze {
+    background-color: #e91eb8;
+    position: absolute;
+    right: 0px;
+    top: 3333px;
+}
+#sem {
+    background-color: #8a0b80;
+}
+#amas {
+    background-color: #aa0c78;
+}
+
+
